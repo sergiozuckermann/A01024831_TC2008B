@@ -65,7 +65,7 @@ body, html{
 #grid-square{
     /* grid-area: footer; */
     background-color: rgba(155, 10, 10, 0.8); 
-    grid-row: 7 / span 8;
+    grid-row: 7 / span 7;
     grid-column: 12 / span 8;
 }
 
